@@ -14,6 +14,9 @@
 -m 后面输入的是本次提交的说明
 
 # 远程仓库
+
+## 查看远程仓库
+    git remote show [remote-name]
 ## 使用SSH连接到GitHub
 
 ### 检查是否已有SSH keys
